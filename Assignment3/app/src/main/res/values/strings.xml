@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignmanet3</string>
+    <string-array name="ct">
+        <item>Surat</item>
+        <item>Rajkot</item>
+        <item>Morbi</item>
+        <item>Junagadh</item>
+        <item>Bagasara</item>
+    </string-array>
+</resources>
