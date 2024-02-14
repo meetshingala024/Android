@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>Rupees to Dollars</item>
+        <item>Dollars to Rupees</item>
+        <item>Rupees to Pound</item>
+        <item>Pound to Rupees</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Select City</item>
+        <item>Rajkot</item>
+        <item>Morbi</item>
+        <item>Una</item>
+        <item>Surat</item>
+        <!-- Add more cities as needed -->
+    </string-array>
+    <string-array name="colleges">
+        <item>College A</item>
+        <item>College B</item>
+        <item>College C</item>
+        <!-- Add more colleges as needed -->
+    </string-array>
+</resources>
